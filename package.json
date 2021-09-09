@@ -1,0 +1,12 @@
+{
+  "name": "typechian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ChaeHyeonU/typechian.git",
+  "author": "JJANGCHAE <wwwa0528@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
